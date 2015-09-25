@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hf_contactdtl_guard">#FF1569b2</color>
+    <color name="btn_teal">#FF80CBC4</color>
+    <color name="btn_orange">#FFFFA726</color>
+    <color name="btn_grey">#FFBDBDBD</color>
+
+</resources>

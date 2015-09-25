@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Block Number</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="block_begin">Begin Block</string>
+    <string name="block_end">End Block</string>
+
+    <string name="app_desc">* Swipe right \n
+        * Include numbers to be blocked in the list \n
+        * Accepts partial number \n
+        * Touch number to remove from list \n
+        * Application blocks incoming call of entered numbers \n
+        * Check the below box to send autoreply sms </string>
+
+    <string name="toast_next"> >\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n </string>
+
+    <string name="check_sendsms">CHECK - sends sms to blocked calls</string>
+    <string name="hint_sendsms">Enter content for blocked calls</string>
+
+    <string name="block_number">Save Number</string>
+    <string name="block_contact">Save Contact</string>
+    <string name="hint_number">Enter number</string>
+</resources>
